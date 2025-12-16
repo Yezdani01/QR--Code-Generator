@@ -28,5 +28,5 @@ pip install qrcode
 
 
 
-## Author - Hamzaa
+#### Author - Hamzaa
 
