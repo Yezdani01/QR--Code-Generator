@@ -21,10 +21,12 @@ Make sure you have Python installed, then install the required library:
 
 ```bash
 pip install qrcode[pil]
+```
+
 
 ![QR Code Screenshot](scan_me.png)
 
-```
+
 
 ## Author - Hamzaa
 
