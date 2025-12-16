@@ -20,7 +20,7 @@ This project is beginner-friendly and demonstrates how to use the `qrcode` libra
 Make sure you have Python installed, then install the required library:
 
 ```bash
-pip install qrcode[pil]
+pip install qrcode
 ```
 
 
